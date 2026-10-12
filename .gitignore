@@ -3,3 +3,14 @@
 *.app
 bin/
 build/
+# Ignore compiled executables that have no extension
+# (Matches any file name that does not contain a dot)
+*!*.*
+
+# Ignore Windows executables explicitly
+*.exe
+
+# Ignore object files if your compiler generates them
+*.o
+*.out
+.DS_Store
