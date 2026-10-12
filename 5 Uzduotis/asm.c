@@ -1,3 +1,5 @@
+// Checks if number has no more than 3 digits after '.'.
+// for personal use
 #include <math.h>
 #include <stdio.h>
 double roundNumber(double num, int precision) {
