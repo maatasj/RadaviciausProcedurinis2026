@@ -1,0 +1,69 @@
+QUERY1
+22
+Matt Druddle Course: 4 Average: 0.000000 Number of courses: 0 Spoken languages: English French Lithuanian
+Wilhelm Thornton Course: 4 Average: 0.000000 Number of courses: 0 Spoken languages: English
+Jamie Perry Course: 4 Average: 0.000000 Number of courses: 0 Spoken languages: English French
+...
+
+QUERY2
+870
+Karl Madsen Course: 3 Average: 7.000000 Number of courses: 3 Computer programming: 6 Philosophy: 7 Algorithms: 8 Spoken languages: English Spanish
+Jim Hat Course: 1 Average: 5.200000 Number of courses: 5 Philosophy: 5 Set theory: 5 Algorithms: 9 Physics: 1 Computer programming: 6 Spoken languages: English Spanish
+Sole Gibson Course: 3 Average: 5.666667 Number of courses: 3 Discrete mathematics: 6 Calculus: 10Discrete mathematics: 1 Spoken languages: English
+...
+
+QUERY3
+809
+Karl Madsen Course: 3 Average: 7.000000 Number of courses: 3 Computer programming: 6 Philosophy: 7 Algorithms: 8 Spoken languages: English Spanish
+Jim Hat Course: 1 Average: 5.200000 Number of courses: 5 Philosophy: 5 Set theory: 5 Algorithms: 9 Physics: 1 Computer programming: 6 Spoken languages: English Spanish
+Sole Gibson Course: 3 Average: 5.666667 Number of courses: 3 Discrete mathematics: 6 Calculus: 10Discrete mathematics: 1 Spoken languages: English
+...
+
+QUERY4
+475
+Karl Madsen Course: 3 Average: 7.000000 Number of courses: 3 Computer programming: 6 Philosophy: 7 Algorithms: 8 Spoken languages: English Spanish
+Sole Gibson Course: 3 Average: 5.666667 Number of courses: 3 Discrete mathematics: 6 Calculus: 10Discrete mathematics: 1 Spoken languages: English
+Robert de Vito Course: 2 Average: 6.666667 Number of courses: 3 Calculus: 10 Philosophy: 6 Philosophy: 7 Spoken languages: English Russian French
+...
+
+QUERY5
+260
+George Gibbs Course: 3 Average: 5.000000 Number of courses: 3 Physics: 1 Set theory: 7 Calculus:7 Spoken languages: English
+Jerry Doe Course: 4 Average: 6.000000 Number of courses: 3 Computer networks: 1 Set theory: 7 Algebra: 10 Spoken languages: English
+Helen Hat Course: 1 Average: 6.000000 Number of courses: 2 Calculus: 3 Calculus: 9 Spoken languages: English Spanish
+...
+
+QUERY6
+547
+Karl Madsen Course: 3 Average: 7.000000 Number of courses: 3 Computer programming: 6 Philosophy:7 Algorithms: 8 Spoken languages: English Spanish
+Kim Note Course: 1 Average: 6.000000 Number of courses: 1 Operating systems: 6 Spoken languages:English
+Arnold Kesting Course: 1 Average: 10.000000 Number of courses: 1 Computer networks: 10 Spoken languages: English Lithuanian
+...
+
+QUERY7
+189
+Karl Madsen Course: 3 Average: 7.000000 Number of courses: 3 Computer programming: 6 Philosophy:7 Algorithms: 8 Spoken languages: English Spanish
+Kim Note Course: 1 Average: 6.000000 Number of courses: 1 Operating systems: 6 Spoken languages:English
+Matt Druddle Course: 4 Average: 0.000000 Number of courses: 0 Spoken languages: English French Lithuanian
+...
+
+QUERY8
+92
+Kim Note Course: 2 Average: 7.000000 Number of courses: 7 Set theory: 7 Set theory: 9 Calculus: 10 Set theory: 6 Algebra: 2 Philosophy: 5 Discrete mathematics: 10 Spoken languages: English Spanish Lithuanian
+Sole Sadman Course: 2 Average: 6.200000 Number of courses: 5 Calculus: 10 Philosophy: 5 Algebra:3 Physics: 5 Philosophy: 8 Spoken languages: English Spanish
+Sole Wozniak Course: 4 Average: 6.571429 Number of courses: 7 Calculus: 8 Computer networks: 9 Algorithms: 1 Set theory: 8 Algebra: 5 Discrete mathematics: 10 Operating systems: 5 Spoken languages: English French
+...
+
+QUERY9
+230
+Karl Madsen Course: 3 Average: 7.000000 Number of courses: 3 Computer programming: 6 Philosophy:7 Algorithms: 8 Spoken languages: English Spanish
+Jim Hat Course: 1 Average: 5.200000 Number of courses: 5 Philosophy: 5 Set theory: 5 Algorithms:9 Physics: 1 Computer programming: 6 Spoken languages: English Spanish
+Robert de Vito Course: 2 Average: 6.666667 Number of courses: 3 Calculus: 10 Philosophy: 6 Philosophy: 7 Spoken languages: English Russian French
+...
+
+QUERY10
+254
+Arnold Kesting Course: 1 Average: 10.000000 Number of courses: 1 Computer networks: 10 Spoken languages: English Lithuanian
+Alex Davison Course: 2 Average: 5.333333 Number of courses: 3 Algorithms: 5 Discrete mathematics: 8 Philosophy: 3 Spoken languages: English Lithuanian
+Matt Druddle Course: 4 Average: 0.000000 Number of courses: 0 Spoken languages: English French Lithuanian
+...
